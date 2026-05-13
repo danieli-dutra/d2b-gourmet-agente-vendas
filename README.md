@@ -1,4 +1,4 @@
-# 🍫✨ D2B Gourmet AI Sales Assistant
+# 🍫✨ D2B Gourmet Assistente de Vendas (IA)
 
 > Um agente de IA para transformar pedidos gourmet em experiências de atendimento mais consultivas, personalizadas e encantadoras.
 
